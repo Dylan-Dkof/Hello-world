@@ -1,0 +1,271 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oliver Tree</title>
+</head>
+
+<body>
+    <div class="content">
+        <header class="header">
+            <div class="logo"><a href="https://lachinata.es/en/"><img src="img/logo_transparent.png" alt=""></a></div>
+            <nav class="menu">
+                <ul>
+                    <li><a href="https://lachinata.es/en/oleotecas/">STORES</a></li>
+                    <li><a href="https://lachinata.es/en/la-chinata/">OLIVER TREE</a></li>
+                    <li><a href="https://lachinata.es/en/blog/">MAGAZING</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="welcoming">
+            <a href="https://lachinata.es/en/body-milk.html"><video width="100%" autoplay loop muted>
+                    <source src="img/video.mp4" type="video/mp4">
+                </video></a>
+            <div class="text">
+                <div class="title">Have a Dry Skin?</div>
+                <br>
+                <div class="w-content">We Nourish Your skins with Nature's Elixir </div>
+                <br>
+                <div class="w-link"><a href="https://lachinata.es/en/crema-hidronutritiva-facial-24h.html"
+                        style="color:burlywood;"><button class="wb">Try it!!</button></a></div>
+            </div>
+        </div>
+        <div class="product">
+            <div class="a"><a href="https://lachinata.es/en/cosmetica.html"><img src="img/a.png" alt=""></a></div>
+            <div class="b"><a href="https://lachinata.es/en/gourmet.html"><img src="img/b.png" alt=""></a></div>
+            <div class="c"><a href="https://lachinata.es/en/hogar.html"><img src="img/c.png" alt=""></a></div>
+            <div class="d"><a href="https://lachinata.es/en/aceite-de-oliva-virgen-extra.html"><img src="img/d.png"
+                        alt=""></a></div>
+            <div class="e"><a href="https://lachinata.es/en/regalos.html"><img src="img/e.png" alt=""></a></div>
+            <div class="f"><a href="https://lachinata.es/en/gourmet/gourmet-extremadura.html/"><img src="img/f.png"
+                        alt=""></a></div>
+            <div class="g"><a href="https://lachinata.es/en/gourmet/gourmet-quesos-ibericos.html"><img src="img/g.png"
+                        alt=""></a></div>
+            <div class="h"><a href="https://lachinata.es/en/gourmet/gourmet-bodega-vino.html"><img src="img/h.png"
+                        alt=""></a></div>
+        </div>
+        <div class="brand">
+            <img src="img/logo_transparent.png" alt="">
+            <p>At Oliver Tree we have been producing Extra Virgin Olive Oil since 1932.
+                We produce Gourmet and Cosmetic products made with Extra Virgin Olive Oil as an essential ingredient.
+                <a href="https://lachinata.es/en/la-chinata/" class="find"> Find out about our history.</a>
+            </p>
+        </div>
+        <div class="contact">
+            <li>
+                <h2><span><a href="">&phone;</a> Purchace by phone</span></h2>
+                <p>If you are looking for personal advice or simply prefer to place your order by phone, we will be
+                    pleased to help you. <br>
+                <h4><span>+34 789 123 567</span></h4>
+                </p>
+            </li>
+            <li>
+                <h2><span><a href="https://lachinata.es/en/contact/">&quest;</a> Help</span></h2>
+                <p>At Oliver Tree we are there when you need us! We help you to take care of yourself inside and out but
+                    we also give you a hand with orders, products, gift ideas or personalised orders for companies or
+                    events.
+                <h4><span><a href="https://lachinata.es/en/contact/"> Contact us</a></span></h4>
+                </p>
+            </li>
+            <li>
+                <h2><span><a href="https://lachinata.es/en/preguntas-frecuentes/">⛟</a> Returns</span></h2>
+                <p>You have 30 days to make a return. At Oliver Tree we are convinced that you will love our products,
+                    but we can all change our minds.
+                <h4><span><a href="https://lachinata.es/en/preguntas-frecuentes/">Refund conditions</a></span></h4>
+                </p>
+            </li>
+
+        </div>
+        <h1 class="h1">Especially for you</h1>
+
+        <div class="all">
+            <div class="especial">
+                <div class="block">
+                    <div class="image-e">
+                        <div class="black"><a href="https://lachinata.es/en/flor-de-sal-negra-110g.html"><img
+                                    src="img/black.png" alt=""></a></div>
+                    </div>
+                    <div class="text-e">
+                        <span><a
+                                href="https://lachinata.es/en/etiqueta-producto/destacado/"><button>HIGHLIGHTS</button></a></span><br>
+                        <span>Black Fleur de Sel</span><br>
+                        <span class="m">3,99$</span><br>
+                        <span>110g | 31.82$ / 1kg</span>
+                    </div>
+                </div>
+                <div class="block">
+                    <div class="image-e">
+                        <div class="snack"><a href="https://lachinata.es/en/salsa-de-aperitivo.html"><img
+                                    src="img/snack.png" alt=""></a></div>
+                    </div>
+                    <div class="text-e">
+                        <span><a
+                                href="https://lachinata.es/en/etiqueta-producto/destacado/"><button>HIGHLIGHTS</button></a></span><br>
+                        <span>Snack Sauce</span><br>
+                        <span class="m">2,90$</span><br>
+                        <span>125ml | 23.2$ / 1 L</span>
+                    </div>
+                </div>
+                <div class="block">
+                    <div class="image-e">
+                        <div class="face"><a
+                                href="https://lachinata.es/en/leche-solar-proteccion-facial-spf-50.html"><img
+                                    src="img/face.png" alt=""></a></div>
+                    </div>
+                    <div class="text-e">
+                        <span><a
+                                href="https://lachinata.es/en/etiqueta-producto/destacado/"><button>HIGHLIGHTS</button></a></span><br>
+                        <span>Face Sun Cream SPF 50+</span><br>
+                        <span class="m">6,93$</span><br>
+                        <span>50 ml | 13.86$ / 100 ml</span>
+
+                    </div>
+                </div>
+                <div class="block">
+                    <div class="image-e">
+                        <div class="sun"><a href="https://lachinata.es/en/leche-solar-spf-30.html"><img
+                                    src="img/sun.png" alt=""></a></div>
+                    </div>
+                    <div class="text-e">
+                        <span><a
+                                href="https://lachinata.es/en/etiqueta-producto/destacado/"><button>HIGHLIGHTS</button></a></span><br>
+                        <span>Sun Cream SPF 30</span><br>
+                        <span class="m">7,63$</span><br>
+                        <span>150 ml | 5.09$ / 100 ml</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h1 class="h2">At Oliver Tree we take care of you inside and out.</h1>
+        <div class="contact">
+            <li>
+
+                <p class="st">The History of Oliver Tree dates back to 1932, when our ancestors began to mill olives
+                    from
+                    our
+                    region, Sierra de Gata.
+                    Today, we have the most modern milling and pressing systems to guarantee the quality of the
+                    Extra
+                    Virgin Olive Oil.
+                    In the same way, aware of the growing concern of our customers to consume <br> </p>
+            </li>
+            <li>
+                <p class="st">healthy and natural food, we elaborate Gourmet products that our best Extra Virgin Olive
+                    Oil has
+                    in
+                    common.
+                    Likewise, and taking up the ancestral uses that ancient civilisations gave to olive oil, Oliver Tree
+                    has developed a wide range of cosmetics products based on the natural properties of Extra Virgin
+                    Olive Oil.
+                </p>
+            </li>
+            <li>
+                <p class="st">Something our customers love is the variety of gifts that we offer at Oliver Tree, both in
+                    food
+                    and
+                    personal care, with which you can make corporate gifts, gifts for events or weddings, or just to
+                    make a gift to someone of the family or a friend.
+                </p>
+            </li>
+        </div>
+        <footer>
+            <div class="end">
+                <h1 class="h3">Oliver Tree</h1>
+                <span>Avenida Alemania 9. 10600, Plasencia </span><br>
+                <span>Cáceres, Spain</span>
+                <h2>Discover our products</h2>
+                <div class="especial">
+                    <div>
+                        <p><a href="">Oils</a></p>
+                        <p><a
+                                href="https://lachinata.es/en/aceite-de-oliva-virgen-extra/aceite-clasico.html">Classic</a>
+                        </p>
+                        <p><a
+                                href="https://lachinata.es/en/aceite-de-oliva-virgen-extra/aceite-monovarietales.html">Monovarietals</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-aceite.html">Gifts</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-aceite.html">Give Extra Virgin Olive Oil</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-gourmet.html">Boxes and Suitcases</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-cestas-estuches.html">Wooden Baskets and
+                                Cases</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-cubos.html">Gift Buckets</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-eventos.html">Gifts for Events</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-cosmetica-clasica.html">Classic Line</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-cosmetica.html">Natural Edition</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-cosmetica-ecologica.html">Olivita</a></p>
+                    </div>
+                    <div>
+                        <p><a href="">Cosmetics</a></p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-linea-clasica.html">Classic Line</a></p>
+                        <p><a href="https://lachinata.es/en/regalos/regalos-cosmetica-ecologica.html"> Olivita - Organic
+                                Cosmetics</a></p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-baby.html">Baby Natural Edition</a></p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-de-cuerpo.html">Body Natural Edition</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-de-manos.html">Hands Natural Edition</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-cabello.html">Hair Natural Edition</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-facial.html">Face Natural Edition</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-higiene.html">Hygiene Natural
+                                Edition</a></p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-con-cbd.html">CBD Natural Edition</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-hombre.html"> Man Natural Edition</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-jabones.html">Soaps Natural Edition</a>
+                        </p>
+                        <p><a href="https://lachinata.es/en/cosmetica/cosmetica-de-labios.html">Lips Natural Edition</a>
+                        </p>
+                    </div>
+                    <div>
+                        <p><a href="">Gourmet</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-condimentos-vinagres.html"> Flavoured Oils
+                                and Vinegar</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-sales-especias-salsas.html"> Salts, Spices
+                                and Sauces</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-quesos-ibericos.html">Cheese and Cured
+                                Iberian Meatn</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-aperitivos-snaks.html"> Appetizers and
+                                Snacks</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-chocolates-dulces.html"> Chocolate</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-conservas.html">Canned Food</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-dulces.html">Sweet Selection</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/mermelada-miel.html">Jam and Honey</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-pates-cremas.html"> Pates and Creams</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-platos-preparados.html"> Ready Meals</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-bebidas-vino-cerveza.html">Drinks</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-bodega-vino.html"> Winery</a></p>
+                        <p><a href="https://lachinata.es/en/gourmet/gourmet-extremadura.html"> The Best of
+                                Extremadura</a></p>
+                    </div>
+                    <div>
+                        <p class="time">Customer Service
+                            FAQs - Frequently Asked Questions
+                            Contact
+                            From Monday to Thursday
+                            10:00 - 14:00 / 16:00 - 18:00
+                            Friday 8:00 - 15:30
+                            Customer service and orders
+                            +34 679 313 214
+                            Professionals and distributors
+                            +34 927 41 79 58</p>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </footer>
+    </div>
+
+</body>
+<link rel="stylesheet" href="style.css">
+
+</html>
